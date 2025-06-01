@@ -3,7 +3,6 @@
 
 ---
 
-<h1 id="div-aligncenterinterrupcionesdiv"><div align="center">Interrupciones</div></h1>
 <p>Cristian David Sotelo Nieto (134770)<br>
 Juan Contreras (134126)<br>
 Carlos Andres Estupiñan (82149)<br>
